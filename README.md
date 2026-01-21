@@ -10,10 +10,15 @@ Ce projet analyse les performances commerciales d'une entreprise en 2023, en se 
 - **Analyse des Annulations** : Suivi du taux d'annulation (49%) et évolution temporelle.
 - **Distribution Géographique** : Performance par régions (South, West, North, East).
 
-  
-![Dashboard Ventes](<img width="786" height="438" alt="image" src="https://github.com/user-attachments/assets/2ef7ea90-2651-41ca-a99b-f9dff085baf5" />
+## Aperçu du Dashboard
 
-<img width="759" height="459" alt="image" src="https://github.com/user-attachments/assets/87671947-dc00-48a7-980d-2cba2e6ad5a3" />)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ef7ea90-2651-41ca-a99b-f9dff085baf5" width="786" alt="Sales Tracking Dashboard">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87671947-dc00-48a7-980d-2cba2e6ad5a3" width="759" alt="Cancelled Orders Dashboard">
+</p>
 
 <img width="1231" height="643" alt="image" src="https://github.com/user-attachments/assets/2db0c0c4-df01-479d-b2e1-43c950e52205" />
 
