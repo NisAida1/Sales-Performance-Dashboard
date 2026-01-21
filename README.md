@@ -20,6 +20,12 @@ Ce projet analyse les performances commerciales d'une entreprise en 2023, en se 
   <img src="https://github.com/user-attachments/assets/87671947-dc00-48a7-980d-2cba2e6ad5a3" width="759" alt="Cancelled Orders Dashboard">
 </p>
 
-<img width="1231" height="643" alt="image" src="https://github.com/user-attachments/assets/2db0c0c4-df01-479d-b2e1-43c950e52205" />
 
-<img width="767" height="460" alt="image" src="https://github.com/user-attachments/assets/dd809bd6-9bbd-4b68-a765-f851ff1ee145" />
+## 📊 Analyse des Annulations de Commandes
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2db0c0c4-df01-479d-b2e1-43c950e52205" width="1000" alt="Détail des annulations par produit et trimestre">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd809bd6-9bbd-4b68-a765-f851ff1ee145" width="800" alt="Revenue Distribution and Product Category">
+</p>
